@@ -1,0 +1,90 @@
+body{
+    background-color: cadetblue;
+}
+
+h1{
+    text-align: center;
+    border-radius: 42px;
+    background-color: rgb(238, 208, 172);
+}
+
+h3{
+    text-align: center;
+    
+}
+
+h5{
+    text-align: center;
+}
+
+.container{
+    background-color: rgb(255, 255, 255);
+  
+    height: auto;
+}
+
+.col-lg-4{
+    background-color: rgb(147, 146, 243);
+}
+
+.col-lg-8{
+    background-color: rgb(255, 255, 255);
+    }
+
+.col-lg-4 img{
+    height: 185px;
+    margin-left: 120px;
+    margin-top: 10px;
+    border-radius: 60px;
+}
+
+.center{
+    text-align: center;
+}
+
+.profile{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: rgb(228, 194, 182);
+}
+
+.prof-skill{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: rgb(221, 228, 182);
+}
+
+.interest{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 30px;
+    background-color: rgb(241, 198, 236);
+}
+
+ul{
+    overflow: auto;
+}
+
+li{
+    float: left;
+    margin-right: 100px;
+    list-style-type: none;
+}
+
+.collapse{
+    background-color: rgb(188, 212, 163);
+}
+
+footer{
+    background-color: black;
+ 
+}
+
+footer h3{
+    font-family: "opan sans";
+    font-size: 15px;
+    color: white;
+    text-align: center;
+} 
